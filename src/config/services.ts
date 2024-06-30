@@ -1,1 +1,2 @@
 export const PRODUCT_SERVICE = "INJ_TOK_4_PROD_SER";
+export const ORDER_SERVICE = "INJ_TOK_4_ORDER_SER";
